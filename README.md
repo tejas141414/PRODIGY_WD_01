@@ -1,6 +1,14 @@
-# PRODIGY_WD_01
+# 🌐 Interactive Fixed Navigation Menu
 
-Project Title: Interactive Fixed Navigation Menu:
+A modern and responsive fixed-position navigation menu built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates how to create an elegant navbar that stays visible while scrolling, changes its appearance when the page is scrolled, and adds hover effects for better user experience.
 
-Description:
-This project implements a modern, fixed-position navigation menu using HTML, CSS, and JavaScript. The menu remains visible at the top of the page, dynamically changes style when the user scrolls, and provides hover effects for enhanced interactivity. It is responsive, visually appealing, and suitable for professional web applications or portfolios.
+---
+
+## 🚀 Features
+
+- ✅ Fixed navigation bar
+- ✅ Smooth scroll and transition effects
+- ✅ Style change on scroll
+- ✅ Hover animations on menu items
+- ✅ Responsive design for mobile screens
+- ✅ Clean, professional UI
